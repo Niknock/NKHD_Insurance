@@ -4,7 +4,7 @@ lua54 "yes"
 
 author "Niknock HD"
 description "NKHD Insurance"
-version "1.0.0"
+version "1.0.5"
 
 client_scripts {
     'config.lua',
